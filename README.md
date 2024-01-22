@@ -1,2 +1,2 @@
-# pololetni-prace-gebauer
-Pololetní práce
+# programy-a-data
+Pololetní projekt do PVY-IT1
